@@ -1,7 +1,3 @@
-<img align="right" height="300" src="https://media.tenor.com/dcfGaIZN4aIAAAAj/ghost-destiny.gif"  />
-
-###
-
 <h2 align="left">🖐️ Hey, I'm Trey Rachall<br>👨‍🎓 A student at Texas State University</h2>
 
 ###
@@ -29,6 +25,10 @@
 ###
 
 <h2 align="left">📖 About Me:</h2>
+
+###
+
+<img align="right" height="300" src="https://media.tenor.com/dcfGaIZN4aIAAAAj/ghost-destiny.gif"  />
 
 ###
 
