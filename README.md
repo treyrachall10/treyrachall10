@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">🎓 Full-time student majoring in Computer Science, minoring in Data Analytics<br><br>🤖 Exploring machine learning and its applications in combat sports<br><br>📷 Experimenting with computer vision and pose estimation<br><br>🧠 Built a Unity application to collect and analyze eye gaze data<br><br>🔍 Interested in AI safety, activity recognition, and multimodal systems<br><br>🤝 Looking to collaborate on innovative projects<br><br>💬 Always down to learn and share ideas</p>
+<p align="left">🎓 Full-time student majoring in Computer Science, minoring in Data Analytics<br><br>🤖 Exploring machine learning and its applications in combat sports<br><br>📷 Experimenting with computer vision and pose estimation<br><br>🧠 Built a Unity application to collect and analyze eye gaze data<br><br>🔍 Interested in AI safety, activity recognition, and multimodal systems<br><br>🤝 Looking to collaborate on innovative projects(especially ones related to combat sports and computer vision)<br><br>💬 Always down to learn and share ideas</p>
 
 ###
 
