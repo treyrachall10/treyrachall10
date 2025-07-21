@@ -1,4 +1,4 @@
-<h2 align="left">🖐️ Hey, I'm Trey Rachall<br>👨‍🎓 A student at Texas State University</h2>
+<h2 align="left">🖐️ Hey, I'm Trey<br>👨‍🎓 A student at Texas State University</h2>
 
 ###
 
