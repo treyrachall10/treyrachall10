@@ -15,7 +15,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
   <img width="12" />
-  <img src="https://cdn.iconscout.com/icon/free/png-256/flask-color-11217640.png" height="30" alt="flask outlined icon" />
+  <img src="https://logos-world.net/wp-content/uploads/2020/06/Flask-Logo.png" height="30" alt="official flask logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo" />
   <img width="12" />
