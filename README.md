@@ -36,7 +36,15 @@
 
 ###
 
-<p align="left">🎓 Full-time student majoring in Computer Science, minoring in Data Analytics<br><br>🤖 Exploring machine learning and its applications in combat sports<br><br>📷 Experimenting with computer vision and pose estimation in combat sports<br><br>🧠 Built a Unity application to collect and analyze eye gaze data<br><br>🔍 Interested in AI safety, activity recognition, and multimodal systems<br><br>🤝 Looking to collaborate on innovative projects(especially ones related to combat sports and computer vision)<br><br>💬 Always down to learn and share ideas</p>
+<p align="left">🎓 Full-time student majoring in Computer Science, minoring in Data Analytics<br><br>🤖 Exploring machine learning and its applications in combat sports<br><br>📷 Experimenting with computer vision and pose estimation in combat sports<br><br>🧠 Built a Unity application to collect and analyze eye gaze data<br><br>🔍 Interested in AI safety, activity recognition, and multimodal systems<br><br>🤝 Looking to collaborate on innovative projects (especially ones related to combat sports and computer vision)<br><br>💬 Always down to learn and share ideas</p>
+
+###
+
+<h2 align="left">🚧 Currently Working On:</h2>
+
+###
+
+<p align="left">Developing a <b>UFC Fantasy Sports Application</b> to explore <b>APIs</b>, <b>REST frameworks</b>, and full-stack backend development.</p>
 
 ###
 
@@ -53,5 +61,3 @@
   </a>
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
 </div>
-
-###
